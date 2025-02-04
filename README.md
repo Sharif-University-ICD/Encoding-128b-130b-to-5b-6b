@@ -7,10 +7,10 @@
 There are 2 codes with format of .ino that can be run in arduino ("Encoding.ino" used for transfering data bit by bit and "Encoding-error-detect.ino" is just like pervious code but we added CRC method to detect errors while transfering data), and a PDF file that is a complete document about what we have done.
 
 ## Team Members:
-1.Mohammadfarhan Bahrami
+1. Mohammadfarhan Bahrami
 
-2.Pouyan Shamsedin
+2. Pouyan Shamsedin
 
-3.Mohammad Shafiezade
+3. Mohammad Shafiezade
 
 
